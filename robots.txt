@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://yumequbufili.netlify.app/sitemap.xml
